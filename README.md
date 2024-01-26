@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</br>
-</br>
-</br>
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeTaNa-Nima&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/MeTaNa-Nima/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeTaNa-Nima&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/MeTaNa-Nima/github-readme-stats)
 
 
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+
+</br>
+</br>
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeTaNa-Nima&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/MeTaNa-Nima/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeTaNa-Nima&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/MeTaNa-Nima/github-readme-stats)
+
 <br>
 <br>
 
