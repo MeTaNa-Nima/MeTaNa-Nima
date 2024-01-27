@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <p align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">  
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 </br>
-</br>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeTaNa-Nima&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/MeTaNa-Nima/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeTaNa-Nima&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/MeTaNa-Nima/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
 <br>
-<br>
+
 
 
 ## About Me
