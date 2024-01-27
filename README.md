@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 </br>
 
+<p align="center">
+  
+![MeTaNa-Nima's Stats](https://github-readme-stats.vercel.app/api?username=MeTaNa-Nima&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MeTaNa-Nima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeTaNa-Nima&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</p>
+
+</br>
+
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 
 <br>
